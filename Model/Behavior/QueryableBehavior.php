@@ -10,7 +10,7 @@
  * @author	KimSia Sim
  * @copyright	KimSia Sim
  * @license	http://www.opensource.org/licenses/mit-license.php The MIT License
- * @link	https://github.com/simkimsia/Queryable
+ * @link	https://github.com/simkimsia/queryable
  */
 class QueryableBehavior extends ModelBehavior {
 
